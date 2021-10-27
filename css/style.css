@@ -1014,4 +1014,8 @@ ul.social_icon li a:hover {
 div#banner1 {
     margin-top: 100px;
 }
+div#san-pham {
+    position: relative;
+    z-index: -99;
+}
 /** end footer **/
